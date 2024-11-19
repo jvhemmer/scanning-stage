@@ -1,1 +1,1 @@
-# scanning-stage
+# WilsonLab API for scanning stage + spectrometry
